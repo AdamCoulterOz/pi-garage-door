@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "PieGarageDoor",
   "pluginType": "platform",
   "singular": true,
   "schema": {
